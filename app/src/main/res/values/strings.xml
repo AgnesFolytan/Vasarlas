@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Vasarlas</string>
+    <string name="ItemNameHint">Item Name</string>
+    <string name="itemquantityhint">Item Quantity</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_quantity">Item Quantity</string>
+</resources>
